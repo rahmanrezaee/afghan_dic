@@ -3,17 +3,14 @@
  - have more 30000 word
  - light program
 
-<a href="https://github.com/rahmanrezaee/afghan_dic" class="button"><small>Download / دانلود</small></a>
+<a href="https://github.com/rahmanrezaee/afghan_dic" class="button"><small></small></a>
 
 <aside id="sidebar">
           
-            <a href="https://github.com/pages-themes/architect/zipball/master" class="button">
-              <small>Download</small>
-              .zip file
-            </a>
+            
             <a href="https://github.com/pages-themes/architect/tarball/master" class="button">
-              <small>Download</small>
-              .tar.gz file
+              <small>Download / دانلود</small>
+              .msi file
             </a>
           
 
